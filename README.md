@@ -9,7 +9,7 @@ Archivo 1 - ODS report Este archivo cobtiene una sintesis de los objetivos de de
 
 Link de lecturas sugeridas <https://nube.ingenieria.uncuyo.edu.ar/s/xYzqXxZJT5L3DSy>
 
-[Link de Carpeta Lecturas]([Presentación clases 1 de 3](https://nube.ingenieria.uncuyo.edu.ar/s/xYzqXxZJT5L3DSy)
+[Link de Carpeta Lecturas](https://nube.ingenieria.uncuyo.edu.ar/s/xYzqXxZJT5L3DSy)
 
 
 * Presentación clases 1 de 3
